@@ -1,7 +1,78 @@
 ## Data Analysis of Football Match Performance Using Web-Scraped Data
 
-In this project, I performed web scraping and exploratory data analysis (EDA) on real-world football match data to extract meaningful insights about team performance and match outcomes. I scraped structured match statistics from online sources, cleaned and transformed the raw data, and conducted detailed exploratory analysis using statistical techniques and visualizations.
+### Project Overview:
 
-The analysis focused on understanding relationships between key match indicators—such as goals scored, shots on target, and home vs away performance—and their impact on match results. Through visual and quantitative analysis, I identified patterns that explain how certain in-game metrics contribute to winning probability and overall team dominance.
+This project focuses on collecting real-world football data through web scraping and performing Exploratory Data Analysis (EDA) to uncover meaningful insights about teams, players, and match-related statistics. The analysis focused on understanding relationships between key match indicators—such as goals scored, shots on target, and home vs away performance—and their impact on match results.
+The goal is to demonstrate end-to-end data analysis skills, starting from raw data extraction to visualization-driven insights.
 
-This project demonstrates my ability to work with real, unstructured web data, handle missing and inconsistent values, and translate raw data into actionable insights using Python-based data analysis tools.
+### Objectives:
+
+ - Scrape real football data from web sources
+
+ - Clean and preprocess raw scraped data
+
+ - Perform exploratory data analysis (EDA)
+
+ - Identify patterns, trends, and distributions in football data
+
+ - Visualize insights using charts and graphs
+
+### Tools & Technologies Used:
+
+ - Python
+
+ - Pandas – Data manipulation & cleaning
+
+ - Matplotlib & Seaborn – Data visualization
+
+ - Jupyter Notebook – Analysis workflow
+
+### Data Collection:
+
+ - Football data is scraped directly from online sources
+
+ - Extracted information includes relevant football statistics such as Team / Player details, Match-related attributes & Performance metrics
+
+ - Data is stored in structured tabular format for analysis
+
+### Data Cleaning & Preprocessing:
+
+ - Handling missing values
+
+ - Removing duplicates
+
+ - Converting data types
+
+ - Feature selection for analysis
+
+### Exploratory Data Analysis (EDA):
+
+1. Key analysis performed:
+
+  - Descriptive statistics of football data
+
+  - Distribution analysis of numerical features
+
+  - Comparative analysis across teams / players
+
+  - Trend identification using visualizations
+
+2. Visualizations include:
+
+  - Bar charts
+
+  - Line plots
+
+  - Histograms
+
+  - Correlation plot
+
+### Key Insights:
+
+  - Identified performance patterns across different football entities
+
+  - Observed trends and outliers in match statistics
+
+  - Derived insights that can support decision-making in sports analytics
+
+(Detailed findings are explained inside the notebook with visual support)
