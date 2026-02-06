@@ -9,7 +9,7 @@ The goal is to demonstrate end-to-end data analysis skills, starting from raw da
 
 ### Project Files:
 
-- [notebook.ipynb](Web%20Scraping%20%26%20EDA%20on%20Real%20Football%20Data.ipynb) – Jupyter Notebook containing the complete analysis.ipynb) – Jupyter Notebook containing the complete analysis
+- [Web Scraping & EDA on Real Football Data.ipynb](Web%20Scraping%20%26%20EDA%20on%20Real%20Football%20Data.ipynb) – Jupyter Notebook containing the complete analysis.ipynb) – Jupyter Notebook containing the complete analysis
 
 ### Objectives:
 
