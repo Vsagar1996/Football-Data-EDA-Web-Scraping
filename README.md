@@ -7,6 +7,10 @@ Website Link for Data Source: https://www.football-data.co.uk/englandm.php
 This project focuses on collecting real-world football data through web scraping and performing Exploratory Data Analysis (EDA) to uncover meaningful insights about teams, players, and match-related statistics. The analysis focused on understanding relationships between key match indicators—such as goals scored, shots on target, and home vs away performance—and their impact on match results.
 The goal is to demonstrate end-to-end data analysis skills, starting from raw data extraction to visualization-driven insights.
 
+### Project Files:
+
+- [notebook.ipynb](Web%20Scraping%20%26%20EDA%20on%20Real%20Football%20Data.ipynb) – Jupyter Notebook containing the complete analysis.ipynb) – Jupyter Notebook containing the complete analysis
+
 ### Objectives:
 
  - Scrape real football data from web sources
@@ -76,5 +80,3 @@ The goal is to demonstrate end-to-end data analysis skills, starting from raw da
   - Observed trends and outliers in match statistics
 
   - Derived insights that can support decision-making in sports analytics
-
-(Detailed findings are explained inside the notebook with visual support)
